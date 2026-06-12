@@ -1,20 +1,37 @@
-# Hi 👋, I'm Jagadeesh Osuru
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;AI+Integration+Enthusiast;REST+API+Developer;Open+Source+Learner;Building+Real+World+Applications" alt="Typing SVG" />
+# ⚡ JAGADEESH OSURU ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=PYTHON+BACKEND+DEVELOPER;AI+WORKFLOW+BUILDER;REST+API+ENGINEER;AUTOMATION+ENTHUSIAST;BUILDING+SCALABLE+SYSTEMS" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=JagadeeshO11&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/JagadeeshO11?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/JagadeeshO11?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+# 🖥 SYSTEM STATUS
 
-![](https://komarev.com/ghpvc/?username=JagadeeshO11\&color=blueviolet\&style=for-the-badge)
+```text
+┌──────────────────────────────────────────────┐
+│ DEVELOPER PROFILE LOADED                     │
+├──────────────────────────────────────────────┤
+│ Name      : Jagadeesh Osuru                  │
+│ Role      : Backend Developer                │
+│ Focus     : Python • APIs • AI • Automation  │
+│ Status    : Online                           │
+│ Learning  : Everyday                         │
+│ Coffee    : Required ☕                       │
+└──────────────────────────────────────────────┘
+```
 
-</div>
+---
 
-## 🚀 About Me
+# 🚀 ABOUT ME
 
 ```python
 class Jagadeesh:
@@ -22,131 +39,183 @@ class Jagadeesh:
     def __init__(self):
         self.role = "Python Backend Developer"
         self.location = "India"
-        self.interests = [
-            "Backend Development",
-            "AI Integration",
-            "Automation",
-            "Cloud Computing"
+
+        self.skills = [
+            "Python",
+            "Flask",
+            "REST APIs",
+            "PostgreSQL",
+            "MongoDB",
+            "Machine Learning",
+            "Automation"
         ]
 
-    def current_goal(self):
-        return "Build scalable products that impact millions"
+    def current_mission(self):
+        return "Building scalable applications with AI integration"
 
-me = Jagadeesh()
+developer = Jagadeesh()
 ```
 
-## 🛠 Tech Stack
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,flask,postgres,mongodb,git,github,vscode,docker,linux" />
-</p>
+# ⚙ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,flask,fastapi,postgres,mongodb,git,github,docker,linux,vscode"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JagadeeshO11&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeeshO11&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=JagadeeshO11&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JagadeeshO11&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-Add this workflow:
-
-`.github/workflows/snake.yml`
+# 🎯 CURRENT MISSION
 
 ```yaml
-name: Generate Snake
+ACTIVE_PROJECTS:
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+  LMS_PLATFORM:
+    status: development
 
-  workflow_dispatch:
+  ASSESSMENT_ENGINE:
+    status: active
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+  AI_APPLICATIONS:
+    status: learning_and_building
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: JagadeeshO11
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  BACKEND_AUTOMATION:
+    status: active
 ```
 
-Then display it:
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JagadeeshO11&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeeshO11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JagadeeshO11&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+```text
+🏅 Backend Development Intern
+
+🏅 Codeathon2K25 Coordinator
+
+🏅 AI-Based Crop Detection Project
+
+🏅 REST API Developer
+
+🏅 Database Optimization Experience
+```
+
+---
+
+# 🚀 FEATURED PROJECT
+
+## 🌱 AI Based Crop Detection System
+
+```text
+Input Image
+     │
+     ▼
+AI Detection Engine
+     │
+     ▼
+Crop Analysis
+     │
+     ▼
+Interactive Dashboard
+     │
+     ▼
+Real Time Insights
+```
+
+---
+
+# 📊 DEVELOPER METRICS
+
+```text
+Python               ████████████████████ 95%
+
+Backend Development  ██████████████████░ 90%
+
+REST APIs            █████████████████░░ 88%
+
+Databases            ████████████████░░░ 82%
+
+Machine Learning     ██████████████░░░░░ 75%
+
+Cloud                ███████████░░░░░░░░ 60%
+```
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+> Enable GitHub Actions and add snake workflow later.
 
 ```md
-## 🐍 Snake Eating My Contributions
-
-![snake gif](https://github.com/JagadeeshO11/JagadeeshO11/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JagadeeshO11/JagadeeshO11/blob/output/github-contribution-grid-snake-dark.svg)
 ```
 
 ---
 
-## 🌟 Featured Project
+# 🌐 CONNECT WITH ME
 
-### AI Based Crop Detection System
+```text
+📧 Email      : jagaosuru@gmail.com
 
-🚜 Machine Learning
-📊 Streamlit Dashboard
-🔗 ThingSpeak Integration
-⚡ Real-time Analytics
+💻 GitHub     : github.com/JagadeeshO11
 
----
+🌍 Portfolio  : jagadeesh-delta.vercel.app
 
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:jagaosuru@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JagadeeshO11">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://jagadeesh-delta.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+🔗 LinkedIn   : linkedin.com/in/jagadeeshosuru
+```
 
 ---
 
 <div align="center">
 
-### ⚡ Building the Future One Commit at a Time ⚡
+## ⚡ TERMINAL
+
+```bash
+> whoami
+
+Jagadeesh Osuru
+
+> skills
+
+Python
+REST APIs
+PostgreSQL
+Automation
+AI Integration
+
+> next_goal
+
+Build products used by thousands.
+
+> status
+
+ONLINE 🟢
+```
+
+### "Code. Learn. Build. Repeat."
 
 </div>
