@@ -1,16 +1,43 @@
-## Hi there 👋
+const jagadeesh = {
+    role: "Full Stack Developer",
+    location: "India",
+    currentFocus: [
+        "LMS Platforms",
+        "Assessment Engines",
+        "AI Integration",
+        "Mobile Applications"
+    ],
+    frontend: [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ],
+    backend: [
+        "FastAPI",
+        "Node.js",
+        "Express"
+    ],
+    databases: [
+        "PostgreSQL",
+        "MySQL"
+    ],
+    tools: [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Postman"
+    ],
+    philosophy: () =>
+        "Build. Break. Learn. Improve. Repeat.",
+    
+    currentMission:
+        "Creating scalable products that solve real-world problems."
+};
 
-<!--
-**JagadeeshO11/jagadeesho11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+while(true){
+    learn();
+    build();
+    deploy();
+    improve();
+}
